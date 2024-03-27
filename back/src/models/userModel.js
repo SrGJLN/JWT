@@ -14,11 +14,23 @@ const createUser = async ({email, password, rol, lenguage}) =>{
 const byEmail = async ({email}) =>{
     const sqlQuery = {
         text : 'SELECT * FROM usuarios where email = $1',
-        value : [email],
+        values : [email],
     };
-    console.log(email)
     const response = await pool.query(sqlQuery);
     return response.rows[0];
 }
 
-export {createUser, byEmail};
+const getAll = async() => {
+    try {
+        const sqlQuery = {
+            text: "SELECT id, email, rol, lenguage FROM usuarios",
+        };
+        const users = await pool.query(sqlQuery);
+        return users.rows;
+    }
+    catch (error) {
+        console.log(error);
+    }
+};
+
+export {createUser, byEmail, getAll};

@@ -120,3 +120,27 @@ Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:15:29 GMT-0300
 Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:18:05 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
 Completed: 500 message:  Time response: 204 ms Request ID: [8f092896-4c62-4834-9bbe-74d896739c5c]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 14:17:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 200 message:  Time response: 200 ms Request ID: [520a302a-2364-498a-8826-bfba28db490f]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:14:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"token@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 409 ms Request ID: [d0130226-724a-4323-99e4-00e88817f44d]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:15:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"token@gmail.com","password":"12345"}}
+Completed: 200 message:  Time response: 289 ms Request ID: [3fdadd58-8956-4bbd-b78f-5ca4926e7648]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:17:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"token@gmail.com","password":"12345"}}
+Completed: 204 message:  Time response: 150 ms Request ID: [55ed2121-af9d-4af4-b254-83f145bc114a]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:18:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"token@gmail.com","password":"12345"}}
+Completed: 200 message:  Time response: 182 ms Request ID: [dc7a133c-dd75-4321-8d4c-52eb19bdbcbb]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:25:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"token@gmail.com","password":"12345"}}
+Completed: 200 message:  Time response: 175 ms Request ID: [3db88428-cece-4762-bfbd-b62efa26f92c]
