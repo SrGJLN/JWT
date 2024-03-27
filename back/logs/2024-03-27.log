@@ -144,3 +144,15 @@ Completed: 200 message:  Time response: 182 ms Request ID: [dc7a133c-dd75-4321-8
 Started GET /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 18:25:43 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"user":{"email":"token@gmail.com","password":"12345"}}
 Completed: 200 message:  Time response: 175 ms Request ID: [3db88428-cece-4762-bfbd-b62efa26f92c]
+
+Started GET / for :: ::1 at Wed Mar 27 2024 18:37:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [dd3ad341-6196-41b0-8e4a-dc7994a37784]
+
+Started GET /registrarse for :: ::1 at Wed Mar 27 2024 18:37:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [1c2bfc70-63ee-4ecf-b345-6fbbcfa225e6]
+
+Started GET /registrarse for :: ::1 at Wed Mar 27 2024 18:37:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [c04e1d74-5ec4-435a-b02a-f570630cf0f1]
