@@ -1,0 +1,122 @@
+
+Started POST /usuarios for :: ::1 at Wed Mar 27 2024 09:53:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Ruby"}
+Completed: 404 message:  Time response: 18 ms Request ID: [a4389e70-3b06-4c9b-8dd3-70a289a738a7]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:09:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguaje":"Ruby"}}
+Completed: 400 message:  Time response: 11 ms Request ID: [189572b8-6eb3-44e4-9a24-e3184b130d6b]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:11:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 16 ms Request ID: [1270b5ab-3e3a-4923-805e-0ec88fefe3ec]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:12:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 15 ms Request ID: [badce567-752e-45a8-bb50-3ee78553a92c]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:13:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 22 ms Request ID: [89d6d75c-31b0-4847-a2e4-01732e37b5d5]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:15:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 16 ms Request ID: [afd4b779-8e38-4275-a4dd-00a87f36abfb]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 15 ms Request ID: [509d7121-05fa-4f3a-8966-3fb35e9ad20d]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:22:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 17 ms Request ID: [93075aad-14a4-443f-9bf9-3d93874a9fa6]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:31:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 16 ms Request ID: [da705703-2dc2-42f1-8bce-5642e7e589a4]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:35:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 18 ms Request ID: [8ed3465c-d5d2-4a3f-95d9-f2cea75e960d]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 10:38:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 14 ms Request ID: [f8d2be0e-f5c3-4260-8939-4581fa9ce65c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:02:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 19 ms Request ID: [bba3fd56-ad9e-40d9-99c8-708bed0945cc]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:02:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"users":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 500 message:  Time response: 10 ms Request ID: [b90d0b6a-4636-4f1e-857e-03e686ead367]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:02:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 7 ms Request ID: [7bb23f7d-415a-4097-a9f9-59e155a30005]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:02:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 15 ms Request ID: [b85638ac-0f80-403e-b602-369a5a87ae0c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:12:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 17 ms Request ID: [6950f649-7092-498f-a380-5d408c73f9a9]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:31:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 33 ms Request ID: [677f63ef-6aad-4948-912a-9161ed98003c]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 11:56:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 14 ms Request ID: [18d387b0-7e6e-4480-86b7-8219724662f7]
+
+Started POST /usuario for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:08:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 404 message:  Time response: 15 ms Request ID: [15499041-20d5-436f-a418-ea36c179f978]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:08:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 11 ms Request ID: [e2dee3d0-9023-4d3b-b548-ef72deea00c0]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:15:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 547 ms Request ID: [621396ed-6495-4b02-8ae6-4a4ef2117976]
+
+Started POST /usuarios for :: ::1 at Wed Mar 27 2024 12:22:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 500 message:  Time response: 10 ms Request ID: [0cbc858f-97b1-4b34-907c-b0329616e9fd]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:42:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 197 ms Request ID: [5709aa2d-fb2a-4008-8610-5decc3ac8161]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:57:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 12:57:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:00:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 210 ms Request ID: [948656d9-6003-46af-9f98-b80a174693c6]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:02:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 208 ms Request ID: [a134e4f4-788d-4d2e-b80b-b5f9dd10a31a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:05:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 208 ms Request ID: [2c0a86bc-110f-48a0-aca9-8eb6932800b5]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:12:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 197 ms Request ID: [9b60bc96-b642-400c-b4b4-36a7c5f6511d]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:14:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 198 ms Request ID: [6646bc6b-7bb3-4585-8796-838b18d58af9]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:15:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Started POST /login for :: ::ffff:127.0.0.1 at Wed Mar 27 2024 13:18:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345"}}
+Completed: 500 message:  Time response: 204 ms Request ID: [8f092896-4c62-4834-9bbe-74d896739c5c]

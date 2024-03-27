@@ -1,0 +1,24 @@
+
+Started POST /usuarios for :: ::1 at Tue Mar 26 2024 14:56:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"12345","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 25 ms Request ID: [6ecf5869-e067-444e-a37c-d5e58fe1895e]
+
+Started POST /usuarios for :: ::1 at Tue Mar 26 2024 14:57:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"12345","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 404 message:  Time response: 4 ms Request ID: [31cab8d7-053f-47a3-9444-21b39974ae52]
+
+Started POST /usuarios for :: ::1 at Tue Mar 26 2024 14:57:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Ruby"}
+Completed: 404 message:  Time response: 5 ms Request ID: [827fa2f7-9d4d-4be7-8a54-98ed470a5f06]
+
+Started POST /usuarios for :: ::1 at Tue Mar 26 2024 14:58:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Ruby"}
+Completed: 404 message:  Time response: 5 ms Request ID: [f9774958-7cf9-4017-9853-fac1f76fa34d]
+
+Started POST /usuarios for :: ::1 at Tue Mar 26 2024 15:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Ruby"}
+Completed: 404 message:  Time response: 5 ms Request ID: [c6181f3c-4825-41ac-9645-f4d1b2caa0b2]
+
+Started POST /api/v1/usuarios for :: ::ffff:127.0.0.1 at Tue Mar 26 2024 15:07:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@gmail.com","password":"12345","rol":"Full Stack Developer","lenguaje":"Ruby"}}
+Completed: 400 message:  Time response: 10 ms Request ID: [35f99c11-98b4-44af-8160-1737902df354]
