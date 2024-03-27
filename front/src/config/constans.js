@@ -1,4 +1,4 @@
-export const URLBASE = 'http://localhost:5173'
+export const URLBASE = 'http://localhost:3000'
 
 export const ENDPOINT = {
   login: `${URLBASE}/login`,
