@@ -2,11 +2,11 @@ import {createUser, getAll} from '../models/userModel.js';
 
 const createNewUser = async (req, res) =>{
     try {
-        const {user} = req.body;
-        const newUser = await createUser(user)
-        res.status(201).json({user: newUser})
+        const user = req.body;
+        await createUser(user)
+        res.send("Usuario registrado con éxito");
     } catch (error) {
-        res.status(400).json(error.message);
+        res.status(500).send(error);
     }
 }
 

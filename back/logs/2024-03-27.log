@@ -212,3 +212,7 @@ Completed: 500 message:  Time response: 9 ms Request ID: [02d0712b-a896-4be8-9a5
 Started POST /usuarios for :: ::1 at Wed Mar 27 2024 20:07:53 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
 Completed: 500 message:  Time response: 6 ms Request ID: [c057063e-9495-4572-b53e-4cc68d59dc5e]
+
+Started POST /usuarios for :: ::1 at Wed Mar 27 2024 20:09:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Ruby"}
+Completed: 500 message:  Time response: 6 ms Request ID: [1c580f2b-73ae-479c-924d-f000131a1c77]
